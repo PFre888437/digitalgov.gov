@@ -2,10 +2,30 @@
 date: 2013-11-18 3:10:34 -0400
 title: About
 url: /about/
-summary: 'We live in a time when more pre-schoolers can use a smartphone app than can tie their shoes. How does government prepare to meet the information needs of these budding citizens? DigitalGov means providing information and services to the public anywhere and anytime. This site is a platform to help those in agencies working on providing digital services and information for the public.'
+summary: ''
 authors:
-  - apiazza
+  - jeremyzilar
 ---
+
+Welcome to DigitalGov :tada:
+
+We provide people in government with the tools, methods, practices and policy guidance needed to create effective digital services and tell their stories of how they are changing the way technology is delivered in the government.
+
+Our job is to know the challenges people in government face, and support them wherever they may be blocked.
+
+We’ve found that agencies need:
+Guidance on implementing digital policies and initiatives
+Open access to modern methods, practices, policies, and tools
+Focused trainings and events that help teams learn and adopt new concepts
+Easy access to collaborate with others across government who are working on the same problems
+What we are working on
+Over the last decade, DigitalGov has become a destination in government to learn about the methods, practices, policies and tools that are needed to create effective digital services.
+And we believe DigitalGov should set the example for how government learns, builds, delivers and measures digital services in the 21st century.
+We are building DigitalGov into a destination that practices the methods that it teaches, and along the way, we are going to tell the story of how we get there, using the very tools that are available in the open, across the government.
+We want to invite you to be part of the next stage of DigitalGov:
+
+
+
 
 We live in a time when [more pre-schoolers can use a smartphone app than can tie their shoes](http://arstechnica.com/gadgets/2011/01/preschoolers-better-at-navigating-iphone-than-tying-their-shoes/). How does government prepare to meet the information needs of these budding citizens? **DigitalGov** means providing information and services to the public anywhere and anytime.
 
